@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-[!(Bannière.png "Banner")]
+<img src="https://github.com/Romain-lfr/Romain-lfr/Bannière.png"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=French+CS+Student+%F0%9F%87%AB%F0%9F%87%B7;Passionate+about+DATA+%F0%9F%93%8A;Full-Stack+Web+Developer+%F0%9F%9A%80;Looking+for+an+apprenticeship+%F0%9F%94%8D)](https://git.io/typing-svg)
