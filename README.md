@@ -26,13 +26,13 @@ class Romain:
         self.name       = "Romain Lefranc"
         self.role       = "Computer Science Student"
         self.location   = "France 🇫🇷"
-        self.passion    = ["DATA", "Web Development", "Problem Solving"]
+        self.passion    = ["DATA", "Web Development", "DATA IA"]
         self.learning   = ["Vue.js", "React.js", "Nest.js"]
-        self.goal       = "Apprenticeship in DATA 🎯"
+        self.goal       = "Apprenticeship in DATA"
         self.contact    = "lefranc.romain@outlook.fr"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Thanks for dropping by! Let's build something amazing together")
 
 me = Romain()
 me.say_hi()
@@ -40,7 +40,7 @@ me.say_hi()
 
 ---
 
-## 🚀 Projets en cours
+## Projets en cours
 
 <div align="center">
 
