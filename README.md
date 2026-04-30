@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 À propos de moi
+## À propos de moi
 
 ```python
 class Romain:
@@ -41,7 +41,7 @@ me.say_hi()
 
 <div align="center">
 
-| 🍹 Projet | 📝 Description | 🔗 Lien |
+|  Projet |  Description |  Lien |
 |-----------|---------------|---------|
 | **MyCocktail** | Application de gestion de cocktails | [![GitHub](https://img.shields.io/badge/GitHub-MyCocktail-6E57F7?style=flat-square&logo=github)](https://github.com/Romain-lfr/MyCocktail) |
 | **FL_Lefranc** | Projet Erasmus FIIT | [![GitHub](https://img.shields.io/badge/GitHub-FL__Lefranc-E4405F?style=flat-square&logo=github)](https://github.com/FIIT-Erasmus/FL_Lefranc) |
@@ -50,7 +50,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Stack Technologique
+## Stack Technologique
 
 <div align="center">
 
@@ -91,7 +91,7 @@ me.say_hi()
 
 ---
 
-## 📈 Activité
+## Activité
 
 <div align="center">
 
