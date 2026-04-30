@@ -84,24 +84,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=romain-lfr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romain-lfr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=romain-lfr&theme=tokyonight&hide_border=true&background=0D1117&fire=6E57F7&ring=6E57F7&currStreakLabel=6E57F7)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophées
+## GitHub Trophées
 
 <div align="center">
 
@@ -120,14 +103,6 @@ me.say_hi()
 </div>
 
 ---
-
-<div align="center">
-
-### 💬 Une citation qui m'inspire
-
-> *"Data is the new oil, but like oil, it must be refined to be valuable."*
-
-<br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=romain-lfr.romain-lfr&color=6E57F7)
 
