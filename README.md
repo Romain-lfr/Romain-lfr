@@ -103,7 +103,8 @@ me.say_hi()
 </div>
 
 ---
-
+<div align="center">
+    
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=romain-lfr.romain-lfr&color=6E57F7)
 
 <!-- Footer wave -->
