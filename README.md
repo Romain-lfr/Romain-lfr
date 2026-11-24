@@ -8,7 +8,6 @@
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Romain%20Lefranc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romain-lefranc)
 [![Portfolio](https://img.shields.io/badge/Portfolio-romain--lfr.com-6E57F7?style=for-the-badge&logo=firefox&logoColor=white)](https://romain-lfr.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@romain__lfr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/romain__lfr)
 [![Email](https://img.shields.io/badge/Email-lefranc.romain%40outlook.fr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lefranc.romain@outlook.fr)
 
 </div>
