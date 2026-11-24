@@ -44,7 +44,9 @@ me.say_hi()
 |  Projet |  Description |  Lien |
 |-----------|---------------|---------|
 | **MyCocktail** | Application de gestion de cocktails | [![GitHub](https://img.shields.io/badge/GitHub-MyCocktail-6E57F7?style=flat-square&logo=github)](https://github.com/Romain-lfr/MyCocktail) |
-| **FL_Lefranc** | Projet Erasmus FIIT | [![GitHub](https://img.shields.io/badge/GitHub-FL__Lefranc-E4405F?style=flat-square&logo=github)](https://github.com/FIIT-Erasmus/FL_Lefranc) |
+| **Tafac** | PAW ENT Rennes | [![GitHub](https://img.shields.io/badge/GitHub-tafac-E4405F?style=flat-square&logo=github)](https://github.com/l-ent-univ/tafac) |
+| **SAE5-FCG** | SAE Recomandation Film | [![GitHub](https://img.shields.io/badge/GitHub-SAE5-FCG-E4405F?style=flat-square&logo=github)](https://github.com/rayon53gb/SAE5-FCG) |
+
 
 </div>
 
